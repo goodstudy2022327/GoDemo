@@ -1,5 +1,6 @@
 package main
 
+// 判断字符串长度
 import (
 	"fmt"
 )
